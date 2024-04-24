@@ -1,4 +1,4 @@
-
+[![First job](https://github.com/garimachib01/openalex_pack/actions/workflows/my-workflow.yaml/badge.svg)](https://github.com/garimachib01/openalex_pack/actions/workflows/my-workflow.yaml)
 
 # Keyword search and Citation Trends using OpenAlex: oa_search_cite 
 
