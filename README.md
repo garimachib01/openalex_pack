@@ -1,8 +1,8 @@
-[![First job](https://github.com/garimachib01/openalex_pack/actions/workflows/my-workflow.yaml/badge.svg)](https://github.com/garimachib01/openalex_pack/actions/workflows/my-workflow.yaml)
+
 
 # Keyword search and Citation Trends using OpenAlex: oa_search_cite 
 
-This package simplifies searching and filtering for relevant academic works from the OpenAlex database based on user-provided keywords.
+This package simplifies searching and filtering for relevant academic works from the OpenAlex database based on user-provided keywords. An additional feature allows for the retrieval of citation data over time for a given academic work.
 
 ## Functions Provided:
 
