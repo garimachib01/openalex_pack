@@ -2,7 +2,7 @@
 
 # Keyword search and Citation Trends using OpenAlex: oa_search_cite 
 
-This package simplifies searching and filtering for relevant academic works from the OpenAlex database based on user-provided keywords. An additional feature allows for the retrieval of citation data over time for a given academic work.
+This package simplifies searching and filtering for relevant academic works from the OpenAlex database based on user-provided keywords. An additional feature allows for retrieval of citation data over time for a given academic work.
 
 ## Functions Provided:
 
